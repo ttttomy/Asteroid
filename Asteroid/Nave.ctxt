@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Nave
+comment1.params=
+comment1.target=Nave()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ actualizarImagen()
+comment4.params=
+comment4.target=void\ disparo()
+numComments=5

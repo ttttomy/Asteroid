@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Asteroide
+comment1.params=hp\ minSpeed\ maxSpeed
+comment1.target=Asteroide(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ wrap()
+comment4.params=
+comment4.target=void\ onHit()
+comment5.params=
+comment5.target=void\ spawnChildren()
+numComments=6
